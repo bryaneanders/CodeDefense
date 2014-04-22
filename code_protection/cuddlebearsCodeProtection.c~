@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <limits.h>
-/*#include <openssl/evp.h> */
+#include <openssl/evp.h>
 
 #include "cuddlebearsCodeProtection.h"
 

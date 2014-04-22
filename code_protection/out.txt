@@ -1,0 +1,6 @@
+bryan
+anders
+123456 + 2233535 = 2356991
+123456 * 2233535 = 865390016
+This is the text from the input file
+wubwubwub dubdubdubdub...step
